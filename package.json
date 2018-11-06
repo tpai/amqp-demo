@@ -1,0 +1,8 @@
+{
+  "name": "amqp-demo",
+  "version": "1.0.0",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  }
+}
